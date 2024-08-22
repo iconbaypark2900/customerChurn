@@ -1,0 +1,8 @@
+customer_id
+age
+tenure
+monthly_charges
+total_charges
+contract_type_Month-to-month
+contract_type_One year
+contract_type_Two year
